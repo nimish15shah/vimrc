@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/users/micas/nshah/.local/lib/python2.7/site-packages/networkx/algorithms/community'
+let g:netrw_dirhist_2='/users/micas/nshah/.local/lib/python2.7/site-packages/networkx/utils'
+let g:netrw_dirhist_3='/esat/micas-data/software/Synopsys/vcs_2017.03/doc/examples/testbench/sv/uvm/simple/hello_world'
